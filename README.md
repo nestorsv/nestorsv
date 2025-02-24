@@ -1,6 +1,6 @@
-# 👋 ¡Hola, soy [Tu Nombre]!
+# 👋 ¡Hola, soy Néstor!
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Soy estudiante de **Desarrollo de Aplicaciones Web**, apasionado por la tecnología y en constante aprendizaje.
+¡Bienvenido a mi perfil de GitHub! 🚀 Soy estudiante de **Desarrollo de Aplicaciones Web**, me encanta la programación y mantenerme en constante aprendizaje.
 
 ## 💡 Sobre mí
 - 🎯 Me encanta el desarrollo web y estoy explorando nuevas tecnologías para crear aplicaciones dinámicas e interactivas.
@@ -20,49 +20,12 @@
 | Java       | Tailwind CSS          | VS Code         |
 | Python     | Bootstrap             | Figma           |
 
-## 📌 Proyectos Destacados
-🔹 **[Nombre del Proyecto 1](https://github.com/tuusuario/proyecto1)** - Breve descripción.  
-🔹 **[Nombre del Proyecto 2](https://github.com/tuusuario/proyecto2)** - Breve descripción.  
 
 ## 🌍 Conéctate conmigo
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
-📧 [Email](mailto:tuemail@example.com)  
-🌐 [Portafolio](https://tuportafolio.com) *(si tienes uno)*  
+💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/n%C3%A9stor-serna-vaquero-91a659311/))  
+📧 [Email](mailto:nestorserna100@gmail.com)  
+
 
 💻 ¡Siempre abierto a nuevas oportunidades y colaboraciones! 😃
 
-JavaScript
-
-React
-
-Git & GitHub
-
-PHP
-
-Laravel
-
-MySQL
-
-Java
-
-Tailwind CSS
-
-VS Code
-
-Python
-
-Bootstrap
-
-Figma
-
-📌 Proyectos Destacados
-
-🔹 Nombre del Proyecto 1 - Breve descripción.
-🔹 Nombre del Proyecto 2 - Breve descripción.
-
-🌍 Conéctate conmigo
-
-💼 LinkedIn📧 Email🌐 Portafolio (si tienes uno)
-
-💻 ¡Siempre abierto a nuevas oportunidades y colaboraciones! 😃
 
