@@ -1,10 +1,6 @@
 # 🚀 ¡Hola, soy Néstor!  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
-</p>
-
-¡Bienvenido a mi perfil de GitHub! Soy estudiante de **Desarrollo de Aplicaciones Web** y disfruto creando soluciones dinámicas y funcionales. Me interesa tanto el **frontend** como el **backend**, porque creo que dominar ambos me permitirá desarrollar aplicaciones completas y eficientes.  
+¡Bienvenido a mi perfil! Soy estudiante de **Desarrollo de Aplicaciones Web** y me apasiona la programación. Me interesa tanto el **frontend** como el **backend**, porque creo que dominar ambos me permitirá desarrollar aplicaciones completas y eficientes.  
 
 ## 💡 Sobre mí  
 💻 Me apasiona convertir ideas en proyectos funcionales, explorando nuevas tecnologías y optimizando cada línea de código.  
@@ -18,9 +14,7 @@
 - 🎨 **HTML, CSS** → Base para la creación de interfaces web.  
 - 🖌 **Bootstrap & Tailwind CSS** → Estilos avanzados para interfaces atractivas y responsivas.  
 - 🖥 **PHP & Laravel** → Desarrollo backend robusto y escalable.  
-- <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30">
-</p> **JavaScript** → Creación de experiencias interactivas en la web.  
+- ⚡ **JavaScript** → Creación de experiencias interactivas en la web.  
 - 🐍 **Python** → Soluciones ágiles y flexibles para distintos ámbitos del desarrollo.  
 - 🗄 **MySQL** → Gestión eficiente de bases de datos.  
 - 🔧 **Git & GitHub** → Control de versiones y colaboración en proyectos.  
