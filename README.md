@@ -1,31 +1,33 @@
-# 👋 ¡Hola, soy Néstor!
+# 🚀 ¡Hola, soy Néstor!  
 
-¡Bienvenido a mi perfil de GitHub! 🚀 Soy estudiante de **Desarrollo de Aplicaciones Web**, me encanta la programación y mantenerme en constante aprendizaje.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100">
+</p>
 
-## 💡 Sobre mí
-- 🎯 Me encanta el desarrollo web y estoy explorando nuevas tecnologías para crear aplicaciones dinámicas e interactivas.
-- 📚 Actualmente, estoy aprendiendo y perfeccionando mis habilidades en **JavaScript, PHP, Java, HTML, CSS y Python**.
-- 🔧 También trabajo con **frameworks** y herramientas como:
-  - ⚛ **React** para el desarrollo frontend moderno.
-  - 🖥 **Laravel** para aplicaciones web robustas en PHP.
-  - 🎨 **Tailwind CSS & Bootstrap** para crear interfaces atractivas y responsivas.
-- 🔍 Siempre buscando mejorar mis habilidades y contribuir con proyectos interesantes.
+¡Bienvenido a mi perfil de GitHub! Soy estudiante de **Desarrollo de Aplicaciones Web** y disfruto creando soluciones dinámicas y funcionales. Me interesa tanto el **frontend** como el **backend**, porque creo que dominar ambos me permitirá desarrollar aplicaciones completas y eficientes.  
 
-## 🚀 Tecnologías y Herramientas
+## 💡 Sobre mí  
+💻 Me apasiona convertir ideas en proyectos funcionales, explorando nuevas tecnologías y optimizando cada línea de código.  
+📚 Actualmente, sigo mejorando mis habilidades en **JavaScript, PHP, Python, HTML y CSS**.  
+🎯 Aspiro a ser un desarrollador full stack, combinando una sólida lógica del servidor con una interfaz atractiva y fluida para el usuario.  
+🚀 Siempre estoy buscando nuevos desafíos, aprendizaje y oportunidades para crecer.  
 
-| Lenguajes  | Frameworks & Librerías | Otras Herramientas |
-|------------|----------------------|------------------|
-| JavaScript | React                 | Git & GitHub     |
-| PHP        | Laravel               | MySQL           |
-| Java       | Tailwind CSS          | VS Code         |
-| Python     | Bootstrap             | Figma           |
+## 🛠 Tecnologías y Herramientas  
 
+- ⚛ **React** → Desarrollo frontend moderno y dinámico.  
+- 🎨 **HTML, CSS** → Base para la creación de interfaces web.  
+- 🖌 **Bootstrap & Tailwind CSS** → Estilos avanzados para interfaces atractivas y responsivas.  
+- 🖥 **PHP & Laravel** → Desarrollo backend robusto y escalable.  
+- <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30">
+</p> **JavaScript** → Creación de experiencias interactivas en la web.  
+- 🐍 **Python** → Soluciones ágiles y flexibles para distintos ámbitos del desarrollo.  
+- 🗄 **MySQL** → Gestión eficiente de bases de datos.  
+- 🔧 **Git & GitHub** → Control de versiones y colaboración en proyectos.  
+- 🛠 **VS Code** → Mi entorno de desarrollo principal.  
 
-## 🌍 Conéctate conmigo
-💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/n%C3%A9stor-serna-vaquero-91a659311/))  
+## 🌍 Conectemos  
+💼 [LinkedIn](https://www.linkedin.com/in/n%C3%A9stor-serna-vaquero-91a659311/)  
 📧 [Email](mailto:nestorserna100@gmail.com)  
 
-
-💻 ¡Siempre abierto a nuevas oportunidades y colaboraciones! 😃
-
-
+💡 **Siempre listo para aprender, mejorar y colaborar en proyectos interesantes. ¡Hablemos!** 😃  
